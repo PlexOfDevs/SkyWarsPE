@@ -9,21 +9,21 @@
     <a href="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/LICENSE">
         
     </a>
-    <br><br>
+
     ✔️ Simple setup
-    <br>
+
     ✔️Multi arena support
-    <br>
+
     ✔️ Fast, without lags
-    <br>
+
     ✔️ Last PocketMine API support
-    <br>
+
     ✔️ Map reset
-    <br>
+
     ✔️ Chest refill
-    <br>
+
     ✔️ Cages
-    <br> 
+
     
 </div>
 
