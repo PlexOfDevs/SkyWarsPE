@@ -7,15 +7,21 @@
         <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="discord">
     </a>
     <a href="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/LICENSE">
-       <div align="left"> 
-
+        <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
+    </a>
+    <br><br>
     ✔️ Simple setup
+    <br>
     ✔️Multi arena support
+    <br>
     ✔️ Fast, without lags
+    <br>
     ✔️ Last PocketMine API support
+    <br>
     ✔️ Map reset
+    <br>
     ✔️ Chest refill
-    ✔️ Cages
+    <br>
 
     
 </div>
