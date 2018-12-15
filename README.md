@@ -1,7 +1,7 @@
 # SkyWarsPE
 🦅 SkyWars minigame plugin for PocketMine
 
-</a>
+    </a>
     <br><br>
     ✔️ Simple setup
     <br>
@@ -16,7 +16,9 @@
     ✔️ Chest refill
     <br>
     ✔️ Cages
-    <br>
+    <br> 
+    
+</div>
 
 <h2>How to setup?</h2>
 </div>
