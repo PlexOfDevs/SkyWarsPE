@@ -3,7 +3,7 @@
 <img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png" width="100" height="100" align="left"></img>
 
 <div align="center">
-	<a href="https://discord.gg/uwBf2jS">
+	<a href="https://discord.gg/vGBxa8n">
         <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="discord">
     </a>
     <a href="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/LICENSE">
