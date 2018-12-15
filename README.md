@@ -1,6 +1,6 @@
 # SkyWarsPE
 
-<img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png" width="100" height="100" align="left"></img>
+<a align="center"><img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png"></img></a>
 
 <div align="left">
 	<a href="https://discord.gg/vGBxa8n">
