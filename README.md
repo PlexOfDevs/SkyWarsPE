@@ -16,6 +16,7 @@
     ✔️ Chest refill
     <br>
     ✔️ Cages
+    <br>
 
 <h2>How to setup?</h2>
 </div>
