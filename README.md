@@ -1,6 +1,7 @@
 # SkyWarsPE
 🦅 SkyWars minigame plugin for PocketMine
 
+<a align="center">
     </a>
     <br><br>
     ✔️ Simple setup
