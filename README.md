@@ -8,7 +8,6 @@
     </a>
     <a href="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
-
     </a>
     <br><br>
     ✔️ Simple setup
