@@ -12,18 +12,17 @@
     </a>
     <br><br>
     ✔️ Simple setup
-    <br><br>
+    <br>
     ✔️Multi arena support
-    <br><br>
+    <br>
     ✔️ Fast, without lags
-    <br><br>
+    <br>
     ✔️ Last PocketMine API support
-    <br><br>
+    <br>
     ✔️ Map reset
-    <br><br>
+    <br>
     ✔️ Chest refill
-    <br><br>
-
+    <br>
     
 </div>
 
