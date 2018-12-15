@@ -1,4 +1,4 @@
-# SkyWarsPE
+# SkyWarsPE [PUT ON HOLD]
 
 <a align="center"><img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png"></img></a>
 
