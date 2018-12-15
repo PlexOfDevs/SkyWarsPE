@@ -1,7 +1,12 @@
 # SkyWarsPE
 🦅 SkyWars minigame plugin for PocketMine
 
-<a align="center">
+<div align="center">
+	<a href="https://discord.gg/uwBf2jS">
+        <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="discord">
+    </a>
+    <a href="https://github.com/GamakCZ/SkyWars/blob/master/LICENSE">
+        
     </a>
     <br><br>
     ✔️ Simple setup
