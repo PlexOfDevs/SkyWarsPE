@@ -1,6 +1,6 @@
 # SkyWarsPE [PUT ON HOLD]
 
-<a align="center"><img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png"></img></a>
+<a align="right"><img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png"></img></a>
 
 <div align="center">
 	<a href="https://discord.gg/vGBxa8n">
