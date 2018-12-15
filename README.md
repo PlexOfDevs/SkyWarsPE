@@ -1,7 +1,7 @@
 # SkyWarsPE
 🦅 SkyWars minigame plugin for PocketMine
 
-<a align="center"><img src="https://ibb.co/TB5rwMN/Skywars.png"></img></a>
+img src="https://github.com/PlexOfDevs/SkyWarsPE/blob/master/Poggit-icon.png" width="100" height="100" align="left"></img>
 
 <div align="center">
 	<a href="https://discord.gg/uwBf2jS">
